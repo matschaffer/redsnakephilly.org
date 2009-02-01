@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  GoRuCo 2009
-name:   home
+layout:   default
+template: index
+title:    GoRuCo 2009
 ---
 
 Test

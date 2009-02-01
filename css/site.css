@@ -417,17 +417,17 @@ table.simple th {
   font-size: 13px;
 }
 
-#nav {
+#header .nav {
   float: right;
   font-family: "HelveticaNeue-Light";
 }
 
-#nav li {
+#header .nav li {
   float: left;
   margin-left: 5px;
 }
 
-#nav li a {
+#header .nav li a {
   display: block;
   padding: 0 10px;
   padding-top: 100px;
@@ -435,19 +435,19 @@ table.simple th {
   text-align: center;
 }
 
-#nav a:link,
-#nav a:visited {
+#header .nav a:link,
+#header .nav a:visited {
   color: #ddd;
   background: #666;
   text-decoration: none;
 }
 
-#nav li.on a:link,
-#nav li.on a:visited,
-#nav li.on a:hover,
-#nav li.on a:active,
-#nav a:hover,
-#nav a:active {
+#header .nav li.on a:link,
+#header .nav li.on a:visited,
+#header .nav li.on a:hover,
+#header .nav li.on a:active,
+#header .nav a:hover,
+#header .nav a:active {
   color: #c00;
   text-decoration: none;
   background: #fff;
