@@ -601,3 +601,8 @@ dd {
 .news p {
   margin-left: 80px;
 }
+
+.news .author {
+  margin-bottom: 20px;
+  font-style: italic;
+}
