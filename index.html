@@ -1,0 +1,18 @@
+---
+layout:   default
+template: index
+title:    GoRuCo 2009
+---
+
+{% for post in site.posts %}
+  <div class="news">
+    <div class="date">
+      <div class="month">Feb</div>
+      <div class="day">02</div>
+    </div>
+    <h2>{{ post.title }}</h2>
+    <div style="margin-bottom: 20px">Posted by {{ post.author }}</div>
+
+    {{ post.content }}
+  </div>
+{% endfor %}
