@@ -606,3 +606,25 @@ dd {
   margin-bottom: 20px;
   font-style: italic;
 }
+
+/** Favicons **/
+#elsewhere ul {
+  list-style-type: none;
+}
+
+#elsewhere li {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+#elsewhere li.flickr {
+  background: url(/images/favicons/flickr.png) no-repeat;
+}
+
+#elsewhere li.github {
+  background: url(/images/favicons/github.png) no-repeat;
+}
+
+#elsewhere li.twitter {
+  background: url(/images/favicons/twitter.png) no-repeat;
+}
