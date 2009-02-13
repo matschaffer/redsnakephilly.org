@@ -57,7 +57,7 @@ We will be videotaping all the talks and panels, and making this video freely av
 
 ### How to submit
 
-Please send all proposals to [proposals@goruco.com][1] by 11:59 PM EST on March 12, 2009. You should receive confirmation that we have received your proposal within 48 hours of submitting it.
+Please send all proposals to [proposals@goruco.com][1] by 11:59 PM EST on March 26, 2009. You should receive confirmation that we have received your proposal within 48 hours of submitting it.
 
 [1]: mailto:proposals@goruco.com
 
