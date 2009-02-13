@@ -598,6 +598,17 @@ dd {
   margin-bottom: 0;
 }
 
+.news h3 {
+  margin-left: 80px;
+}
+
+.news ul, .news ol {
+  margin: 0 0 1.4em 100px;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+}
+
 .news p {
   margin-left: 80px;
 }
