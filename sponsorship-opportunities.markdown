@@ -7,7 +7,7 @@ author:   Josh
 GoRuCo Sponsorship Opportunities
 ================================
 
-**Plese note that the following packages are a work-in-progress and not yet officially announced**
+**Please note that the following packages are a work-in-progress and not yet officially announced**
 
 Platinum ($7,500 / 1)
 ---------------------
