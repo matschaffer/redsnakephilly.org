@@ -1,8 +1,8 @@
 /* Reset
 ------------------------------------------------------------------*/
 
-html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, 
-abbr, acronym, address, code, del, dfn, img, q, dl, dt, dd, ol, ul, li, 
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
+abbr, acronym, address, code, del, dfn, img, q, dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   margin: 0;
   padding: 0;
@@ -135,7 +135,7 @@ div.error {
   padding: 10px;
 }
 
-/* 
+/*
 ------------------------------------------------------------------*/
 
 
@@ -491,6 +491,10 @@ h1 {
   border-bottom: 1px solid #ccc;
   color: #111;
   font-size: 30px;
+}
+
+#primary ul {
+  margin-bottom: 10px;
 }
 
 #secondary h3 {
