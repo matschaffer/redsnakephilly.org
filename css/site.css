@@ -396,25 +396,27 @@ table.simple th {
 ------------------------------------------------------------------*/
 
 #logo {
+  position: absolute;
   float: left;
-  padding-top: 8px;
+  padding-top: 20px;
 }
 
 #logo img {
-  margin: 20px 0 0 0px;
   width: 325px;
   height: 77px;
+  margin: 20px 0 0 0px;
 }
 
 #header-wrap {
-  background: #808080 url(/images/bg.gif);
+  margin-bottom: -1px;
+  background: #1d1d1d;
 }
 
 #header {
   width: 940px;
   overflow: hidden;
   margin: 0 auto;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 #header .nav {
@@ -433,12 +435,13 @@ table.simple th {
   padding-top: 100px;
   line-height: 32px;
   text-align: center;
+  border-top: 5px solid #282828;
 }
 
 #header .nav a:link,
 #header .nav a:visited {
   color: #ddd;
-  background: #666;
+  background: #222;
   text-decoration: none;
 }
 
@@ -448,6 +451,7 @@ table.simple th {
 #header .nav li.on a:active,
 #header .nav a:hover,
 #header .nav a:active {
+  border-color: #fff;
   color: #c00;
   text-decoration: none;
   background: #fff;
@@ -457,12 +461,13 @@ table.simple th {
 ------------------------------------------------------------------*/
 
 #main-wrap {
-  padding: 20px 0 50px 0;
   color: #111;
-  background: #fff;
+  background: #f5f5f5 url(/images/city-line.gif) repeat-x 0 100%;
 }
 
 #main {
+  padding: 20px 10px 100px 10px;
+  background: url(/images/city.gif) no-repeat bottom right;
   overflow: hidden;
   width: 940px;
   margin: 0 auto;
@@ -523,7 +528,6 @@ dd {
 
 #footer-wrap {
   padding: 30px 0;
-  border-top: 1px solid #ccc;
   background: #ddd;
   line-height: 26px;
 }
@@ -561,6 +565,8 @@ dd {
   text-decoration: none;
 }
 
+#footer li.on a:link,
+#footer li.on a:visited,
 #footer a:hover,
 #footer a:active {
   color: #fff;
@@ -579,6 +585,8 @@ dd {
   background: #666;
   text-align: center;
   -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
 }
 
 .date .month {
@@ -598,6 +606,7 @@ dd {
 }
 
 .news h2 {
+  color: #900;
   line-height: 24px;
   margin-bottom: 0;
 }
