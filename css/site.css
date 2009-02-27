@@ -408,7 +408,6 @@ table.simple th {
 }
 
 #header-wrap {
-  margin-bottom: -1px;
   background: #1d1d1d;
 }
 
@@ -435,13 +434,13 @@ table.simple th {
   padding-top: 100px;
   line-height: 32px;
   text-align: center;
-  border-top: 5px solid #282828;
+  border-top: 5px solid #1d1d1d;
 }
 
 #header .nav a:link,
 #header .nav a:visited {
   color: #ddd;
-  background: #222;
+  background: #333;
   text-decoration: none;
 }
 
