@@ -435,6 +435,8 @@ table.simple th {
   line-height: 32px;
   text-align: center;
   border-top: 5px solid #282828;
+  -webkit-transition-property: background, border-top;
+  -webkit-transition-duration: 0.25s;
 }
 
 #header .nav a:link,
