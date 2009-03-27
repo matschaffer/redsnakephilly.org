@@ -13,7 +13,7 @@ of the New York City Ruby user group, and past speakers at the International Rub
 Conference and RailsConf. GoRuCo's sold-out 2007 and 2008 conferences were both highly
 acclaimed by both local and visiting Rubyists and this year looks to be just as good.
 
-Please [sponsorship opportunities][1] and contact [sponsors@goruco.com][2] with 
+Please check out the [sponsorship opportunities][1] and contact [sponsors@goruco.com][2] with 
 any questions.
 
 [1]: /sponsorship-opportunities.html
