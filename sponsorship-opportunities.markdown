@@ -7,24 +7,20 @@ author:   Josh
 GoRuCo Sponsorship Opportunities
 ================================
 
-**Please note that the following packages are a work-in-progress and not yet officially announced**
-
-Platinum ($7,500 / 1)
+Gold ($4,000 / 1)
 ---------------------
 
 * 4 conference passes
 * Logo and 200 word description on sponsors page
-* Logo sidebar of website
+* Logo on sidebar of website
 * Program insert (8"/11" - optional)
 * Full page full-color ad in program
 * Logo in videos
-* 30 min speaking slot (content approved by program chair)
 * Exhibit table outside of conference hall during breakfast / lunch
 * Logo on wireless splash page
-* Invitation to Speaker / Organizer dinner (1 person)
 
-Gold ($5,000 / 2)
------------------
+Silver ($2,500 / 3)
+-------------------
 
 * 2 conference passes
 * Logo and 100 word description on sponsors page
@@ -35,20 +31,13 @@ Gold ($5,000 / 2)
 * Recognition by program chair during opening comments
 * Exhibit table outside of conference hall during breakfast / lunch
 
-Silver ($2,500 / 3)
---------------------------
-
-* 1 conference passes
-* Logo and 50 word description on sponsors page of website
-* Program insert (8"/11" - optional)
-* Quarter-page full-color ad in program
-
-Bronze ($1,000 / 5)
+Bronze ($1,000)
 --------------------------
 
 * 1 conference pass
 * Logo and 50 word description on sponsors page of website
 * Program insert (8"/11" - optional)
+* Quarter-page full-color ad in program
 
 Other Opportunities
 -------------------
