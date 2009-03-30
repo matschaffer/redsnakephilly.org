@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Call for Proposals
+title:    GoRuCo 2009 - Call for Proposals
 author:   Francis
 ---
 

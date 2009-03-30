@@ -574,6 +574,7 @@ dd {
   background: #666;
 }
 
+
 /* Content
 ------------------------------------------------------------------*/
 
@@ -652,4 +653,15 @@ dd {
 
 #elsewhere li.twitter {
   background: url(/images/favicons/twitter.png) no-repeat;
+}
+
+ul.bullets {
+  margin: 0 0 0 20px;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+}
+
+table.schedule td {
+  padding-right: 5px
 }
