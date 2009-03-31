@@ -2,6 +2,7 @@
 layout:   default
 title:    Speakers - GoRuCo 2009
 author:   Francis
+template: speakers
 ---
 
 Speakers
