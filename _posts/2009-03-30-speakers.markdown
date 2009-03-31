@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    GoRuCo 2009 - Speakers
+title:    Speakers
 author:   Francis
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    GoRuCo 2009 - Save the date
+title:    Save the date
 author:   Josh
 ---
 
