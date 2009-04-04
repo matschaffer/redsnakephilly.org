@@ -12,6 +12,10 @@ Speakers
 
 ## [Greg Brown](http://blog.majesticseacreature.com/) Where is Ruby *really* heading?
 
+<div style="float:left; padding-right: 20px">
+<img src="/images/greg_brown.png">
+</div>
+
 For those who want to run a standard Ruby build, we've got Ruby 1.8.6,
 Ruby 1.8.7, and Ruby 1.9.1 to choose from.  This alone can create
 confusion for the uninitiated as well as complications for the
@@ -36,6 +40,7 @@ the PDF generation library Prawn, supported by the kindness of the
 Ruby community.  Gregory lives in New Haven, CT with his girlfriend,
 some small animals, and a bamboo plant that seems to live without
 water.
+
 
 <a name="howerton"></a>
 
@@ -75,9 +80,14 @@ currently working to help scale infrastructure for TuneCore.com. Some
 might say that Jake has an unhealthy obsession with entrepreneurial
 pursuits, economic theory, and backpacks.
 
+
 <a name="katz"></a>
 
 ## [Yehuda Katz](http://yehudakatz.com/) From Rails to Rack: Making Rails 3 a Better Ruby Citizen
+
+<div style="float:left; padding-right: 20px">
+<img src="/images/yehuda_katz.png">
+</div>
 
 Rails 3 is on its way, and Yehuda Katz is giving attendees a sneak peek! With the advent of the Rack spec and library, Ruby web frameworks can interact in unprecedented ways. Imagine a Rails application routing to a Sinatra application, or Merb-style exception pages that catch exceptions from Rails or Cloudkit. These are focal points of Rails 3 and Yehuda's talk.
 
@@ -93,6 +103,7 @@ Join Yehuda and talk about how this powerful idea is informing Rails 3, and how 
 During the course of this talk Eleanor will look at Ruby's support for the \*nix process model and explore some of the cool ways this can be exploited to create multi-process applications suited to today's multi-core systems.
 
 London-based hacker Eleanor trained as a physicist and for the last thirteen years has worked on real-time software systems ranging from safety-critical cockpit avionics to mission-critical broadcast automation. She's always enjoyed high-level languages and discovered the Joy of Ruby in 2001. Since 2005 she's worked predominantly with the Ruby and related technologies with a particular interest in low-level networking and application scalability.
+
 
 <a name="metz"></a>
 ## [Sandi Metz](http://sandimetz.com/) SOLID Object Oriented Design
@@ -117,8 +128,13 @@ The talk will cover all the SOLID principles:
 
 Sandi Metz works for Duke University in Durham, NC, is a member of the newly formed West End Ruby Group on Carborro, NC. and is one of the many DevChix. She's been working in Ruby and Rails for over 4 years (since 0.13) and has an ongoing and active interested in all things OOD.
 
+
 <a name="stein"></a>
 ## [Benjamin Stein](http://benjaminste.in/) Building Cross Platform Mobile Apps with Ruby & PhoneGap 
+
+<div style="float:left; padding-right: 20px">
+<img src="/images/benjamin_stein.png">
+</div>
 
 Surging popularity for rich mobile applications has left many once
 cutting edge Ruby developers feeling left behind. Developing for
@@ -148,6 +164,7 @@ Ben is the co-founder and CTO of Mobile Commons, a mobile
 technology company focusing on SMS & voice applications.  He is active
 in the New York City Ruby community and a contributer to a number of
 open-source Ruby libraries.
+
 
 <a name="yoder"></a>
 ## [Dan Yoder](http://rubywaves.com/) Resource-Oriented Architecture With Waves
