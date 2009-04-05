@@ -665,3 +665,8 @@ ul.bullets {
 table.schedule td {
   padding-right: 5px
 }
+
+.headshot {
+  float: right;
+  padding: 0 0 10px 10px
+}

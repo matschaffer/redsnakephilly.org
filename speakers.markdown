@@ -10,9 +10,9 @@ Speakers
 
 <a name="brown"></a>
 
-## [Greg Brown](http://blog.majesticseacreature.com/) Where is Ruby *really* heading?
+## [Gregory Brown](http://blog.majesticseacreature.com/) Where is Ruby *really* heading?
 
-<div style="float:left; padding-right: 20px">
+<div class="headshot">
 <img src="/images/greg_brown.png">
 </div>
 
@@ -45,6 +45,10 @@ water.
 <a name="howerton"></a>
 
 ## [Jake Howerton](http://jake.howmeta.com/) Into the Heart of Darkness: Rails Anti-Patterns
+
+<div class="headshot">
+<img src="/images/jake_howerton.png">
+</div>
 
 Everybody has hopefully heard the term "code rot". This talk will be
 one part guided tour and one part expos&eacute; on the phenomenon within
@@ -85,7 +89,7 @@ pursuits, economic theory, and backpacks.
 
 ## [Yehuda Katz](http://yehudakatz.com/) From Rails to Rack: Making Rails 3 a Better Ruby Citizen
 
-<div style="float:left; padding-right: 20px">
+<div class="headshot">
 <img src="/images/yehuda_katz.png">
 </div>
 
@@ -103,13 +107,23 @@ Yehuda Katz is currently employed by Engine Yard, and works full time as a Core 
 <a name="mchugh"></a>
 ## [Eleanor McHugh](http://slides.games-with-brains.net/) The Ruby Guide to \*nix Plumbing
 
+<div class="headshot">
+<img src="/images/eleanor_mchugh.png">
+</div>
+
 During the course of this talk Eleanor will look at Ruby's support for the \*nix process model and explore some of the cool ways this can be exploited to create multi-process applications suited to today's multi-core systems.
 
 London-based hacker Eleanor trained as a physicist and for the last thirteen years has worked on real-time software systems ranging from safety-critical cockpit avionics to mission-critical broadcast automation. She's always enjoyed high-level languages and discovered the Joy of Ruby in 2001. Since 2005 she's worked predominantly with the Ruby and related technologies with a particular interest in low-level networking and application scalability.
 
+<br style="clear:both" />
+
 
 <a name="metz"></a>
 ## [Sandi Metz](http://sandimetz.com/) SOLID Object Oriented Design
+
+<div class="headshot">
+<img src="/images/sandi_metz.png">
+</div>
 
 While TDD is universally accepted in the Ruby community, the design principles that underlay OOD are much less widely practiced. That's both too bad and to our detriment.  Even a little bit of knowledge about OOD leads to improved code and simplified tests.  Over the lifetime of an application, good design provides significant payback.
 
@@ -135,7 +149,7 @@ Sandi Metz works for Duke University in Durham, NC, is a member of the newly for
 <a name="stein"></a>
 ## [Benjamin Stein](http://benjaminste.in/) Building Cross Platform Mobile Apps with Ruby & PhoneGap 
 
-<div style="float:left; padding-right: 20px">
+<div class="headshot">
 <img src="/images/benjamin_stein.png">
 </div>
 
@@ -171,6 +185,10 @@ open-source Ruby libraries.
 
 <a name="yoder"></a>
 ## [Dan Yoder](http://rubywaves.com/) Resource-Oriented Architecture With Waves
+
+<div class="headshot">
+<img src="/images/daniel_yoder.png">
+</div>
 
 REST is a much talked about but often misunderstood architectural style. The application and benefits of REST are seen throughout the Web itself. Yet most Web frameworks focus on hiding the Web (HTTP in particular) behind an MVC facade. This creates obstacles to using what is, without question, the most successful distributed applications architecture ever devised. Waves, a Ruby architectural framework for developing more consistently with REST, attempts to remove this obstacle between the programmer and the Web.
 
