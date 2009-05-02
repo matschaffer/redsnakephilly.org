@@ -43,11 +43,11 @@ Jesse Chan-Norris has been, at various times, a freelance technology consultant,
 
 ## Cory Forsyth
 
-<!-- 
 <div class="headshot">
 <img src="./images/organizers/forsyth.jpg">
 </div>
--->
+
+Cory co-founded the hyperlocal news site [outside.in](http://outside.in) in 2006 and runs the monthly Ruby Happy Hour in New York.  Before that he attended the Interactive Telecommunications Program at NYU and worked on technology-meets-culture projects like the Popularity Dialer and Twitter Vote Report.  He lives in Brooklyn with two roommates and two crazy dogs.
 
 <br style="clear:both" />
 
