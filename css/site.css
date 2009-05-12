@@ -152,6 +152,11 @@ h4 { font-size: 1.8em; }
 h5 { font-size: 1.6em; }
 h6 { font-size: 1.4em; }
 
+h4 {
+  color: #1D1D1D;
+  margin-bottom: 10px;
+}
+
 a {
 }
 
@@ -669,4 +674,12 @@ table.schedule td {
 .headshot {
   float: right;
   padding: 0 0 10px 10px
+}
+
+#sponsors ul {
+  margin-bottom: 10px;
+}
+
+#sponsors li {
+  text-align: center;
 }

@@ -5,6 +5,20 @@ title:    Sponsors - GoRuCo 2009
 author:   Josh
 ---
 
+## Gold
+
+[![Engine Yard](/images/sponsors/engineyard.png)][engineyard]
+
+Engine Yard focuses on Ruby on Rails application deployments and operations support, so
+you can focus on developing your application and business. Customers have started during
+development and grown to millions of users without stress along the way. Start with one
+slice, grow to 16 slices, then to a dedicated cluster in our data center or yours--all
+without changing your code. Engine Yard supports the Ruby community, by sponsoring the
+development of Rails, Merb, Rubinius, and other open source projects. We're here 24/7,
+by phone, at (866) 518-YARD or email, at [info@engineyard.com](mailto://info@engineyard.com)
+
+[engineyard]: http://www.engineyard.com
+
 ## Silver
 
 [![Medidata Solutions](/images/sponsors/medidata.png)][medidata]
