@@ -58,3 +58,14 @@ We now have a large team in New York, ready to help make your project
 a success.
 
 [pivotal]: http://www.pivotallabs.com
+
+## Bronze
+
+[![New Relic](/images/sponsors/newrelic.png)][newrelic]
+
+New Relic is the creator of RPM &trade;, the first application performance management
+software tool available as a service. Today, more than 1700 organizations subscribe to
+RPM to monitor and manage their production Ruby on Rails applications. More information
+about New Relic can be found at [http://www.newrelic.com][newrelic].
+
+[newrelic]: http://www.newrelic.com
