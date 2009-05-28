@@ -79,3 +79,10 @@ while working transparently with team members. Rock on -
 [contact@excoventures.com](mailto://contact@excoventures.com)
 
 [excoventures]: http://excoventures.com/
+
+[![Sling Media](/images/sponsors/sling.png)][slingmedia]
+
+Whether it's watching your TV anywhere or watching just about anything on your TV, our
+products are all about bringing you new and better digital media experiences. Plug in.
+
+[slingmedia]: http://slingmedia.com
