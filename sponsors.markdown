@@ -69,3 +69,13 @@ RPM to monitor and manage their production Ruby on Rails applications. More info
 about New Relic can be found at [http://www.newrelic.com][newrelic].
 
 [newrelic]: http://www.newrelic.com
+
+[![Exco Ventures](/images/sponsors/exco.png)][excoventures]
+
+Exco Ventures is a company that believes in practical application of leading web
+technologies. We provide our clients with the expertise needed to take advantage of
+emerging tools to innovate and lead in their fields. Our consultants will inspire you
+while working transparently with team members. Rock on -
+[contact@excoventures.com](mailto://contact@excoventures.com)
+
+[excoventures]: http://excoventures.com/
