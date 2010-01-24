@@ -59,7 +59,7 @@ Cory co-founded the hyperlocal news site [outside.in](http://outside.in) in 2006
 <img src="./images/organizers/knowles.jpg">
 </div>
 
-Josh is an accomplished developer, trainer and consultant with over 8 years of professional development experience. Last seen consulting throughout the country for both early stage startups, as well as large international organizations, he brings with him a strong background in Agile Development practices, a passion for Open Source development, as well as a heavy dose of sarcastic humor and an unlimited supply of West Coast charm.
+Josh is an accomplished developer, trainer and consultant with over 10 years of professional development experience. Last seen consulting throughout the country for both early stage startups, as well as large international organizations, he brings with him a strong background in Agile Development practices, a passion for Open Source development, as well as a heavy dose of sarcastic humor and an unlimited supply of West Coast charm.
 
 [http://joshknowles.com](http://joshknowles.com)
 
@@ -100,21 +100,6 @@ Shari Halter is a web developer/designer in <span class="caps">NYC</span>. After
 </div>
 
 [Francis Hwang](http://fhwang.net/) is an artist, writer, and software engineer. An active member of the Ruby community, he founded <a href="http://nycruby.org/">Ruby-NYC</a> in 2003, has spoken at the International Ruby Conference, and is currently a software engineer at <a href="http://www.diversionblog.com/">Diversion Media</a>. His writing on technology and culture has appeared in <cite>Spin</cite>, <cite>Wired</cite>, <cite>ArtByte</cite>, and <cite><span class="caps">FEED</span> Magazine</cite>. His artwork <cite>The Unauthorized iPod U2 vs. Negativland Special Edition</cite> has received press coverage in <cite>Wired News</cite>, <cite>Art in America</cite>, and <cite>Liber&aacute;tion</cite> (France). He lives in Brooklyn with one laptop and one big-boned cat.
-
-<br style="clear:both" />
-
-<a name="jiminez"></a>
-
-## Lorgio Jimenez
-
-<!--
-<div class="headshot">
-<img src="./images/organizers/jiminez.jpg">
-</div>
--->
-
-Lorgio Jimenez is a software Engineer currently working for Cablevision Systems Corp.
-Personal site: <a href="http://lorgiojimenez.com">http://lorgiojimenez.com</a>
 
 <br style="clear:both" />
 
