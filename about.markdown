@@ -8,7 +8,7 @@ About
 =====
 
 The Gotham Ruby Conference (GoRuCo) is a one-day event that will take place in
-New York City in May of 2010. It will be a technical conference aimed at
+New York City on May 22nd, 2010. It will be a technical conference aimed at
 highly motivated programmers interested in all things Ruby. You'll spend the
 day among Rubyists, Rails developers, and language enthusiasts in New York City,
 home of Silicon Alley. The agenda will feature 5-6 speakers and an open session of
