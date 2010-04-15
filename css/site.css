@@ -622,7 +622,7 @@ dd {
   margin-left: 80px;
 }
 
-.news ul, .news ol {
+#primary .news ul, #primary .news ol {
   margin: 0 0 1.4em 100px;
   list-style-image: none;
   list-style-position: outside;
@@ -660,8 +660,8 @@ dd {
   background: url(/images/favicons/twitter.png) no-repeat;
 }
 
-ul.bullets {
-  margin: 0 0 0 20px;
+#primary ul, ul.bullets {
+  margin: 0 0 10px 20px;
   list-style-image: none;
   list-style-position: outside;
   list-style-type: disc;

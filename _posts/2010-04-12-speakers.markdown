@@ -8,13 +8,12 @@ We are happy to announce that we have finalized our list of speakers for GoRuCo 
 
 Our 2010 speaker lineup is:
 
-<ul>
-<li>Nick Gauthier on how to Grease your Suite: Tips and Tricks for Faster Testing</li>
-<li>Aman Gupta on memprof: the ruby level memory profiler</li>
-<li>Luke Melia on Managing Ruby Teams</li>
-<li>Chris Williams on how Rails' Best Caching Method is JavaScript</li>
-<li>Alex McCaw on Bowline - Ruby Desktop Applications</li>
-<li>Paul Dix on Building Web Service Clients with ActiveModel</li>
-<li>James Golick on real-world experiences scaling a Rails site to 150 million monthly pageviews</li>
-</ul>
+
+* [Nick Gauthier](/speakers.html#gauthier) on how to Grease your Suite: Tips and Tricks for Faster Testing
+* [Aman Gupta](/speakers.html#gupta) on memprof: the ruby level memory profiler
+* [Luke Melia](/speakers.html#melia) on Managing Ruby Teams
+* [Chris Williams](/speakers.html#williams) on how Rails' Best Caching Method is JavaScript
+* [Alex MacCaw](/speakers.html#maccaw) on Bowline - Ruby Desktop Applications
+* [Paul Dix](/speakers.html#dix) on Building Web Service Clients with ActiveModel
+* [James Golick](/speakers.html#golick) on real-world experiences scaling a Rails site to 150 million monthly pageviews
 
