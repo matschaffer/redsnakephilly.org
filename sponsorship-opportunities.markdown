@@ -1,13 +1,13 @@
 ---
 layout:   default
-title:    Sponsorship Opportunities - GoRuCo 2009
+title:    Sponsorship Opportunities - GoRuCo 2010
 author:   Josh
 ---
 
 GoRuCo Sponsorship Opportunities
 ================================
 
-Gold ($4,000 / 1)
+Gold ($5,000 / 1)
 ---------------------
 
 * 4 conference passes
@@ -16,8 +16,10 @@ Gold ($4,000 / 1)
 * Program insert (8"/11" - optional)
 * Full page full-color ad in program
 * Logo in videos
+* Logo on venue signage
+* Recognition within pre-conference email
+* 5 minute sponsored talk
 * Exhibit table outside of conference hall during breakfast / lunch
-* Logo on wireless splash page
 
 Silver ($2,500 / 3)
 -------------------
@@ -28,6 +30,8 @@ Silver ($2,500 / 3)
 * Program insert (8"/11" - optional)
 * Half-page full-color ad in program
 * Logo in videos
+* Logo on venue signage
+* Recognition within pre-conference email
 * Recognition by program chair during opening comments
 * Exhibit table outside of conference hall during breakfast / lunch
 
