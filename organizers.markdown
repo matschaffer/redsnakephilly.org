@@ -10,23 +10,6 @@ Organizers
 
 <a name=""></a>
 
-## David Black
-
-<div class="headshot">
-<img src="./images/organizers/black.jpg">
-</div>
-
-David A. Black is a long-time Ruby and Rails developer, author,
-trainer, event organizer, and speaker. Based in New Jersey, David is
-the owner/director of the Ruby/Rails consultancy <a
-href="http://www.rubypal.com">Ruby Power and Light, LLC</a>, and a
-director of the non-profit Ruby organization <a
-href="http://www.rubycentral.org">Ruby Central, Inc.</a>. David's
-latest book is
-<a href="http://www.manning.com/black2">The Well-Grounded Rubyist</a> (Manning Publications, 2009).
-
-<br style="clear:both" />
-
 <a name="chan-norris"></a>
 
 ## Jesse Chan-Norris
@@ -76,18 +59,6 @@ Josh is an accomplished developer, trainer and consultant with over 10 years of 
 -->
 
 Bryan Helmkamp is a Rails software engineer in New York. During his three years of professional Ruby/Rails programming he has been continually active in the community by helping organizing events like Rails Day 2007 and the annual Gotham Ruby Conference (GoRuCo). Bryan's software development blog is located at <a href="http://brynary.com/">http://brynary.com/</a>
-
-<br style="clear:both" />
-
-<a name="halter"></a>
-
-## Shari Halter
-
-<div class="headshot">
-<img src="./images/organizers/halter.jpg">
-</div>
-
-Shari Halter is a web developer/designer in <span class="caps">NYC</span>. After completing an <span class="caps">MFA</span>/Computer Art degree, she worked in the engineering industry on an unlikely, yet delightfully varied, sequence of assignments including railroad simulation, 3D <span class="caps">CAD</span> modeling and animated computer visualization, and later as a user interface designer/programmer at <span class="caps">IBM</span>'s Watson Research Center. Before recently returning to programming and design, she spent a decade as an art gallerist, and raising her two young sons, in <span class="caps">NYC</span>. Speaking engagements include: presentation of her master's thesis at <span class="caps">SIGGRAPH</span> in 1994 and Contemporary Indian Art at the Museum of Contemporary Art in Chicago (2001). In 2004, she served as a member of the <span class="caps">MFA</span> Review Panel for the <span class="caps">SVA</span> Alumni Scholarship Awards. Although currently working mainly in other languages, she is an enthusiastic Ruby attendant and learner.
 
 <br style="clear:both" />
 
