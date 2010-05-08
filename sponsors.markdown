@@ -67,13 +67,14 @@ analysis and reporting of clinical trial data ([Medidata Rave][medidata-rave] &r
 
 [![Cyrus Innovation](/images/sponsors/cyrus.png)][cyrus]
 
-Cyrus Innovation is an Agile Software Development consulting firm specializing
-in Agile coaching. We work with midsize to large companies in the Northeast
-that want to adopt or improve Agile methodologies in their development teams.
-Cyrus has 30 employees, which makes us big enough to have capacity for large
-engagements, and still small enough for our principals to be involved in each
-project.We choose our staff carefully and train them as developers first and
-then as coaches. Cyrus developer-coaches have a deep understanding of Agile
-principles and practices and the ability to transfer that knowledge.
+[Cyrus Innovation](cyrus) is an Agile Software Development consulting firm 
+specializing in Agile coaching. We work with midsize to large companies in the 
+Northeast that want to adopt or improve Agile methodologies in their 
+development teams. Cyrus has 30 employees, which makes us big enough to have 
+capacity for large engagements, and still small enough for our principals to 
+be involved in each project. We choose our staff carefully and train them as 
+developers first and then as coaches. Cyrus developer-coaches have a deep 
+understanding of Agile principles and practices and the ability to transfer 
+that knowledge.
 
 [cyrus]: http://www.cyrusinnovation.com
