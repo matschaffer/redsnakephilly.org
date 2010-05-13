@@ -1,0 +1,15 @@
+---
+layout:   post
+title:    Mongo NYC
+author:   Josh
+---
+
+Our friends over at [10Gen][10gen] have graciously offered a discount to GoRuCo 
+attendees for their [Mongo NYC][mongonyc] conference which just happens to be 
+the day prior to GoRuCo. This looks to be a great event and a perfect 
+compliment to the awesomeness that will be next Saturday.
+
+Use the code "**goruco**" when registering to save 10%.
+
+[10gen]:    http://10gen.com
+[mongonyc]: http://www.10gen.com/event_mongony_10may21
