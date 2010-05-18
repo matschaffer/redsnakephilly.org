@@ -90,3 +90,14 @@ or in dedicated hosting environments. RPM Lite is a free, fully supported,
 unlimited time version available at [http://newrelic.com][newrelic].
 
 [newrelic]: http://newrelic.com/RPMlite-rails.html?utm_source=goruco&utm_medium=logo&utm_campaign=rpmlite
+
+[![Skarven Enterprises](/images/sponsors/skarven.png)][skarven]
+
+[Skarven Enterprises][skarven], a Boeing Company, is a rapidly growing Agile
+software development company that provides analytics, hardware and software
+solutions essential to meeting the needs of decision makers in U.S.
+intelligence organizations.  Our leading edge technology provides real-time
+processing, temporal analysis and interactive display of massive quantities of
+numeric, geographical and textual information.
+
+[skarven]: http://www.skarven.net
