@@ -101,3 +101,15 @@ processing, temporal analysis and interactive display of massive quantities of
 numeric, geographical and textual information.
 
 [skarven]: http://www.skarven.net
+
+[![Drop.io](/images/sponsors/dropio.png)][dropio]
+
+[Drop.io][dropio] provides simple, private file-sharing, making it easy to 
+upload files and share links to web-friendly previews and downloads. The 
+[drop.io API][dropio-api] allows you to build that functionality into your own 
+app, making adding rich media to your application a snap. 
+(P.S. - we're hiring! [jobs@dropio.com][dropio-jobs])
+
+[dropio]:       http://drop.io
+[dropio-api]:   http://dev.drop.io
+[dropio-jobs]:  mailto:jobs@dropio.com
