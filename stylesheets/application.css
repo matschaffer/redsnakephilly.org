@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+  font-line-height: 21px;
+  background: #2b2b2b url(../images/background.jpg) top center repeat-x; }
+  body .wrapper {
+    width: 980px;
+    margin: 0 auto; }
+    body .wrapper img {
+      margin: 100px auto 21px auto;
+      display: block; }
+    body .wrapper .links {
+      margin-left: 358px; }
+      body .wrapper .links a {
+        margin: 0 14px;
+        font-weight: bold;
+        color: #555960;
+        text-shadow: 1px 1px 1px white;
+        font-size: 12px;
+        padding: 5px 7px; }
+      body .wrapper .links a:hover {
+        background: #2b2b2b;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        color: white;
+        text-shadow: none; }
