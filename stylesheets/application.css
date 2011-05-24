@@ -69,7 +69,13 @@ html, body {
 }
 #sidebar .schedule table th{
   font-size:18px;
-
+}
+#sidebar .sections {
+  padding: 0 15px;
+}
+#sidebar h4 {
+  margin: 0 0 12px 0;
+  text-decoration: underline;
 }
 
 #content {
@@ -180,23 +186,31 @@ span.cfp-text {
 a {
   color: #ad1912; }
 
-#linksWrapper{
-  width:309px;
-  height:50px;
-  margin:0px auto;
-  margin-top:60px;
+#linksWrapper {
+  float: left;
+  margin: 60px 0 20px 0;
+  width: 100%;
 }
-#linksWrapper img{
-  float:left;
-  height: 50px;
-  margin: 0 2px;
- }
 
-#footer{
-  position: fixed;
-  bottom: 0;
-  margin: 0 10px 0 170px;
-  width: 680px;
+#linksWrapper a {
+  float: left;
+  margin: 0 12px 0 0;
+}
+
+#linksWrapper .last {
+  margin: 0;
+}
+
+#linksWrapper img {
+  float:left;
+  height: 45px;
+}
+
+ #footer{
+   position: fixed;
+   bottom: 0;
+   margin: 0 10px 0 170px;
+   width: 680px;
 }
 
 #content .schedule table{
@@ -218,7 +232,8 @@ a {
 #oldSites {
   font-size:18px;
   font-weight:bold;
-  margin: 35px 15px;}
+  margin: 0 0 20px 0;
+}
 
 #oldSites a{
   font-weight:normal;
@@ -270,3 +285,18 @@ img.organizer {
 #box img {
   width: 142px;
 }
+
+.sponsors {
+  margin: 0 0 20px 0;
+}
+
+.sponsors a {
+  display: block;
+  margin: 0 0 10px 0;
+}
+
+.sponsors img.bluebox {
+  margin: -5px 0 0 -5px;
+}
+
+.clear { clear: both; }
