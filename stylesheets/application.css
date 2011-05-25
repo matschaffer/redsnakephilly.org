@@ -1,29 +1,29 @@
 * {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html, body {
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
   height: 100%;
- }
-
- #layout {
-   height: 100% !important;
 }
 
-#layout .wrapper {
-  width: 980px;
-  display: table;
-  margin: 0 auto;
-  height:100% !important;
+/***********************************/
+/*            PAGE LAYOUT          */
+/***********************************/
+#container {
   background: url(/images/chrome/background.png) 0 0 repeat-y;
+  min-height: 100%;
+  margin: 0 auto;
+  position: relative;
+  width: 980px;
 }
 
 #sidebar {
   float: left;
-  width: 336px;
-  height:100%;
+  height: 100%;
+  width: 313px;
 }
 #sidebar h1 {
   text-indent: -99999px;
@@ -79,17 +79,19 @@ html, body {
   text-decoration: underline;
 }
 
-#content {
+#content_wrap {
   float: left;
-  width: 644px;
-  margin-bottom: 120px;
-  height:100%;
+  padding: 0 0 60px 0;
+  width: 667px;
+}
+#content {
+  margin: 0 10px;
 }
 #content .post {
   margin: 21px 0;
 }
 #content .post .post-details {
-  display: table;
+  /*display: table;*/
   clear: both;
   margin-bottom: 14px; }
 #content .post .post-details div {
@@ -135,6 +137,14 @@ html, body {
 
 #panel-highlight {
   background: url(/images/icons/panel.png) 0 0 no-repeat; }
+
+#footer {
+  background: url(/images/chrome/bottom-skyline.png) no-repeat center bottom;
+  position: absolute;
+  bottom: 0px;
+  height: 35px;
+  width: 667px;
+}
 
 h2 {
   font-weight: normal;
@@ -205,13 +215,6 @@ a {
 #linksWrapper img {
   float:left;
   height: 45px;
-}
-
- #footer{
-   position: fixed;
-   bottom: 0;
-   margin: 0 10px 0 170px;
-   width: 680px;
 }
 
 #content .schedule table{
