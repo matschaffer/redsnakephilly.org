@@ -305,3 +305,7 @@ img.organizer {
 }
 
 .clear { clear: both; }
+
+p.trailing {
+  text-indent: 1.5em;
+}
