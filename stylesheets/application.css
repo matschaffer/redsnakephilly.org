@@ -75,7 +75,6 @@ html, body {
 }
 #sidebar h4 {
   margin: 0 0 12px 0;
-  text-decoration: underline;
 }
 
 #content_wrap {
@@ -127,7 +126,7 @@ html, body {
   background: url(/images/icons/travel.png) 0 0 no-repeat; }
 #speaker-highlight ul li.talk, #panel-highlight ul li.talk {
   background: url(/images/icons/list.png) 0 0 no-repeat; }
-#speaker-highlight ul li.bio, #panel-highlight ul li.bio {
+#speaker-highlight ul l style="width:400px;float:left; padding:15px;"i.bio, #panel-highlight ul li.bio {
   background: url(/images/icons/book.png) 0 0 no-repeat; }
 #speaker-highlight ul li.location, #panel-highlight ul li.location {
   background: url(/images/icons/map.png) 0 0 no-repeat; }
@@ -162,7 +161,7 @@ h4 {
   font-size: 16px;
   line-height: 21px;
   margin-bottom: 21px; }
-
+ style="width:400px;float:left; padding:15px;"
 p {
   color: #232323;
   font: helvetica, arial, sans-serif;
