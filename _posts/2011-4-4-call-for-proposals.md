@@ -3,7 +3,7 @@ author: Josh Knowles
 layout: post
 ---
 
-![Call for Proposals](/images/content/cfp-banner.jpg)
+  <img src="/images/content/cfp-banner.jpg" alt="Call for Proposals" />
 
   The Gotham Ruby Conference, a one-day, single-track event in New York City,
   is now accepting proposal papers. GoRuCo will be held on Saturday, June 4th 
