@@ -299,7 +299,7 @@ img.organizer {
 .sponsors img {
   margin: 10px 0;
   max-width: 175px;
-  max-height: 175px;
+  max-height: 200px;
 }
 
 .sponsors img.bluebox {
@@ -309,7 +309,16 @@ img.organizer {
 .clear { clear: both; }
 
 p.trailing {
-  text-indent: 1.5em;
+  padding: 0.5em 0 0 0;
 }
 
 .spacer { display: block;}
+
+.speakerList {
+  margin-left: 30px;
+  list-style-type: none;
+}
+
+.speakerList p {
+  padding: 10px;
+}
