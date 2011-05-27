@@ -298,6 +298,8 @@ img.organizer {
 
 .sponsors img {
   margin: 10px 0;
+  max-width: 175px;
+  max-height: 175px;
 }
 
 .sponsors img.bluebox {
@@ -309,3 +311,5 @@ img.organizer {
 p.trailing {
   text-indent: 1.5em;
 }
+
+.spacer { display: block;}
