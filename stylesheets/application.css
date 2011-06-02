@@ -26,7 +26,7 @@ html, body {
   height: 100%;
   width: 336px;
 }
-#sidebar h1 {
+#sidebar Engine Yard provides automation technologies and services for Ruby on Rails, including Engine Yard Cloud, an application services platform for web developers and web teams. It provides easy-to-use, automated Rails application deployment and management, with a design philosophy that allows easy migration of existing applications. Engine Yard employs top industry experts and sponsors or contributes to many Open Source projects and efforts such as Ruby on Rails, JRuby and Rubinius. Visit www.engineyard.com, twitter.com/engineyard.h1 {
   text-indent: -99999px;
   display: block;
   width: 0;
@@ -91,7 +91,7 @@ html, body {
   margin-bottom: 21px;
 }
 #content p {
-  margin-bottom: 21px;
+  margin-bottom: 40px;
 }
 #content .post {
   margin-bottom: 42px;
@@ -158,6 +158,7 @@ html, body {
   height: 35px;
   width: 667px;
 }
+
 
 h2 {
   font-weight: normal;
