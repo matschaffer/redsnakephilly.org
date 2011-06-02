@@ -6,6 +6,7 @@
 html, body {
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
+  line-height: 21px;
   height: 100%;
 }
 
@@ -17,13 +18,13 @@ html, body {
   min-height: 100%;
   margin: 0 auto;
   position: relative;
-  width: 980px;
+  width: 1008px;
 }
 
 #sidebar {
   float: left;
   height: 100%;
-  width: 313px;
+  width: 336px;
 }
 #sidebar h1 {
   text-indent: -99999px;
@@ -37,6 +38,7 @@ html, body {
   display: block; }
 #sidebar #nav {
   margin: 0 0 20px 0;
+  height: 252px;
 }
 #sidebar #nav a {
   font-size: 18px;
@@ -83,15 +85,28 @@ html, body {
   width: 667px;
 }
 #content {
-  margin: 0 10px;
+  margin-top: 21px;
+}
+#content img {
+  margin-bottom: 21px;
+}
+#content p {
+  margin-bottom: 21px;
 }
 #content .post {
-  margin: 21px 0;
+  margin-bottom: 42px;
 }
-#content .post .post-details {
-  /*display: table;*/
+.post-content {
   clear: both;
-  margin-bottom: 14px; }
+}
+.post h2 a{
+  text-decoration: none;
+}
+
+#content .post .post-details {
+  display: table;
+  clear: both;
+}
 #content .post .post-details div {
   margin: 0 21px 0 0;
   float: left;
@@ -168,6 +183,17 @@ p {
   font-size: 14px;
   line-height: 21px;
   margin-bottom: 21px; }
+
+/* List Styles -------------- */
+#content ul {
+  list-style-position: inside;
+  margin: 21px 0;
+}
+#content ul li {
+  margin-left: 21px;
+  margin-bottom: 7px;
+}
+
 
 .cfp-button {
   background: url(/images/buttons/cfp-button.png) 0 0 no-repeat;

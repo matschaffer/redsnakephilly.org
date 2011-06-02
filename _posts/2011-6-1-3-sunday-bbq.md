@@ -4,6 +4,7 @@ layout: post
 title: Sunday BBQ
 ---
 
+<img src="/images/content/bbridge.jpg" alt="Brooklyn Bridge"/>
 Sunday afternoon [Efficiency 2.0][e20] is hosting a post-GoRuCo barbecue on
 their office roof overlooking the Brooklyn bridge in Manhattan. Food will be
 provided - both meatful and meatless - along with beer and the company of your

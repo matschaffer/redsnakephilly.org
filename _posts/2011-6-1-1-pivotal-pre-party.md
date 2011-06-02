@@ -4,12 +4,13 @@ layout: post
 title: Pre-Party Friday Night
 ---
 
-Friday evening [Pivotal Labs][pivotal] will be hosting a party, Pre-GoRuCo, 
-for attendees and friends in the community. Stop by to mingle with your fellow 
+<img src="/images/content/party-night.jpg" alt="Pivotal Party"/>
+Friday evening [Pivotal Labs][pivotal] will be hosting a party, Pre-GoRuCo,
+for attendees and friends in the community. Stop by to mingle with your fellow
 Rubyists, grab some snacks and enjoy some drinks... alcoholic and none.
 <br/><br/>
 If you are interested in attending please RSVP on our [EventBrite][eventbrite]
-page to give us an idea of who and how many we should expect. 
+page to give us an idea of who and how many we should expect.
 <br/><br/>
 Please Feel free to pass around this invite to friends in the Ruby community.
 <br/><br/>
