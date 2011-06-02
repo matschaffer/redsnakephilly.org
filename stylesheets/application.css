@@ -37,7 +37,7 @@ html, body {
   height: 147px;
   display: block; }
 #sidebar #nav {
-  margin: 0 0 20px 0;
+559508  margin: 0 0 20px 0;
   height: 252px;
 }
 #sidebar #nav a {
@@ -238,7 +238,6 @@ a {
 
 #linksWrapper img {
   float:left;
-  height: 45px;
 }
 
 #content .schedule table{
