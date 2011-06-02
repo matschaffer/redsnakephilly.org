@@ -5,7 +5,8 @@ title: A Boat. We're On it.
 ---
 
 After the conference, you and a guest are invited to join us on a 3 hour cruise 
-around Manhattan. Drinks and dinner will be provided.
+around Manhattan. Drinks and dinner will be provided. Bring a jacket, it gets 
+cold on the open sea.
 <br/><br/>
 **Please find our boat docked at:**
 * World Financial Center Pier 199 Vesey Street
