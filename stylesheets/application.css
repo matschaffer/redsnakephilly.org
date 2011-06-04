@@ -115,9 +115,9 @@ html, body {
   font-size: 12px;
   height: 21px; }
 #content .post .post-details .date {
-  background: url(/images/icons/cal.png) 0 0 no-repeat; }
+  background: url(/images/icons/cal.png) 0 4px no-repeat; }
 #content .post .post-details .author {
-  background: url(/images/icons/author.png) 0 0 no-repeat; }
+  background: url(/images/icons/author.png) 0 4px no-repeat; }
 
 #speaker-highlight, #panel-highlight {
   background: url(/images/icons/speaker.png) 0 0 no-repeat;
