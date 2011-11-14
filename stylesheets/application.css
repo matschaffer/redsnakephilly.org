@@ -255,17 +255,6 @@ a {
   height:20px;
 }
 
-
-#oldSites {
-  font-size:18px;
-  font-weight:bold;
-  margin: 0 0 20px 0;
-}
-
-#oldSites a{
-  font-weight:normal;
-}
-
 div.organizer {
   margin: 20px auto;
   min-height: 140px;
