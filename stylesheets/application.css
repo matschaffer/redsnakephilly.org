@@ -147,7 +147,7 @@ html, body {
   background: url(/images/icons/panel.png) 0 0 no-repeat; }
 
 #footer {
-  background: url(/images/chrome/bottom-skyline.png) no-repeat center bottom;
+  /*background: url(/images/chrome/bottom-skyline.png) no-repeat center bottom;*/
   position: absolute;
   bottom: 0px;
   height: 35px;
